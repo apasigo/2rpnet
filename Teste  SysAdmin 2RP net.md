@@ -71,7 +71,7 @@ E a API do Google, não estava me trazando as informações para a criação da 
 ```
 
 ```
-Sobre a Regra de aberta, as mesmas foram criadas dentro do Zabbix instalado na instancia e dentro do monitoring do GCC como redundancia. 
+Sobre a Regra de alerta, as mesmas foram criadas dentro do Zabbix instalado na instancia e dentro do monitoring do GCC como redundancia. 
 ```
 
 ```
